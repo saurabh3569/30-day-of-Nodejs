@@ -1,8 +1,6 @@
-// Read a File in Nodejs
-
+// Reading the file Asynchronously :
 const fs = require('fs')
 
-// Reading the file Asynchronously :
 fs.readFile('demo.txt',(err,data) => {
     if(err) throw err
     else console.log("content : " + data)
