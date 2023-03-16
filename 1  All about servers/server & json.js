@@ -1,7 +1,8 @@
 const http = require('http')
-const { stringify } = require('querystring')
 
+// create server
 http.createServer((req,res)=>{
+    // change MIME type to 'application/json'
     res.writeHead(200,{"Content-Type":"application/json"})
     let res_json = {
         name : "saurabh",
