@@ -1,8 +1,8 @@
 # 30-day-of-Nodejs
 
 
-Day 1 - The Beginning
-Day 2 - File System in node.js
+1. Day 1 - The Beginning
+2. Day 2 - File System in node.js
 Day 3 - Regular expressions in node.js
 Day 4 - Console module in node.js
 Day 5 - All about errors
