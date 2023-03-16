@@ -1,8 +1,9 @@
 const http = require('http')
 const fs = require('fs')
 
+// create server
 http.createServer((req,res)=>{
-
+    // change MIME type to 'video/mp4'
     res.writeHead(200,{"Content-Type":"video/mp4"})
 
     fs.exists('video.mp4', function(exists){
