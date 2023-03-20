@@ -1,0 +1,1 @@
+// Assertion errors : This type of errors are raised by assert . This type of errors are special case of errors which occurs when an exceptional logic violation is detected in node.js that should never occur. 
