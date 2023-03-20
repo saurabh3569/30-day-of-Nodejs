@@ -5,4 +5,4 @@ function mul(value ,total){
     return total;
 }
 var output = arr.reduce(mul);
-console.log("The product of the array is : " + output); //The product of the array is : 8400
+console.log("The product of the array is : " + output); //The product of the array is : 8400 

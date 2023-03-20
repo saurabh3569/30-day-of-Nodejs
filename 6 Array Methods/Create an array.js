@@ -12,4 +12,4 @@ arr = [1,5,7];  		// initialize elements of array
 // declare and initialize in a single statement
 var arr1 = new Array(2,5,7); 
 console.log("arr : " + arr);
-console.log("arr 1 : " + arr1);
+console.log("arr 1 : " + arr1); 

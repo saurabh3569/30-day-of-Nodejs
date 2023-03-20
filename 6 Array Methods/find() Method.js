@@ -13,4 +13,4 @@ var out = arr.find(odd);
 var out1 = arr1.find(odd);
 console.log("Output of array 1 : " + out);   //Output of array 1 : undefined
 console.log("Output of array 2 :" + out1);	 //Output of array 2 :3			
-								 
+								  

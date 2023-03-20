@@ -11,4 +11,4 @@ function even(value){
 var out = arr.every(even);
 var out1 = arr1.every(even);
 console.log("Output of array 1 : " + out);   //Output of array 1 : true
-console.log("Output of array 2 :" + out1);   //Output of array 2 :false
+console.log("Output of array 2 :" + out1);   //Output of array 2 :false 

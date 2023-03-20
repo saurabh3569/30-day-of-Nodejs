@@ -11,4 +11,4 @@ function even(value){
 var out = arr.filter(even);
 var out1 = arr1.filter(even);
 console.log("Output of array 1 : " + out);  //Output of array 1 : 2,4,6,8,10
-console.log("Output of array 2 :" + out1);  //Output of array 2 : 2,4,6,8
+console.log("Output of array 2 :" + out1);  //Output of array 2 : 2,4,6,8 
