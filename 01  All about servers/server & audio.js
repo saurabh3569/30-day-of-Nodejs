@@ -8,7 +8,7 @@ http.createServer((req,res)=>{
 
     fs.exists('audio.mp3',function(exists){
         if(exists){
-            const rstream = fs.createReadStream('audio.mmp3')
+            const rstream = fs.createReadStream('audio.mp3')
             rstream.pipe(res)
         }else{
             res.end("Error 404")
